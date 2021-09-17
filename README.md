@@ -6,9 +6,8 @@ I will upload a lot of applications written by me in Python 🐍 to this reposit
 
 Among them:
 - Games 🎮
-- Console apps 📟
-- Apps with GUI <img alt="Telegram" width=24px src="https://raw.githubusercontent.com/github/explore/aca0b3b69ca680013b925338b0cc428190aa42dc/topics/cli/cli.png" />
-- and more...
+- Console apps <img alt="Telegram" width=24px src="https://raw.githubusercontent.com/github/explore/aca0b3b69ca680013b925338b0cc428190aa42dc/topics/cli/cli.png" />
+- Apps with GUI
 
 ---
 
