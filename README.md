@@ -8,6 +8,7 @@ Among them:
 - Games 🎮
 - Console apps <img alt="Telegram" width=24px src="https://raw.githubusercontent.com/github/explore/aca0b3b69ca680013b925338b0cc428190aa42dc/topics/cli/cli.png" />
 - Apps with GUI
+- and other...
 
 ---
 
